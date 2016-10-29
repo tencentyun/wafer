@@ -19,14 +19,14 @@
 ## 开发者资源索引
 
 * 文档
-    - [Wiki](https://github.com/tencentyun/weapp-solution/wiki) - 解决方案的技术架构、具体设计和实现
+  - [Wiki](https://github.com/tencentyun/weapp-solution/wiki) - 解决方案的技术架构、具体设计和实现
 * 服务端
-    - [PHP SDK](https://github.com/tencentyun/weapp-php-server-sdk) - PHP 解决方案的 SDK 源码及 Demo
-    - [C# SDK](https://github.com/tencentyun/weapp-csharp-server-sdk) - C# 解决方案的 SDK 源码及 Demo
-    - [Java SDK](https://github.com/tencentyun/weapp-java-server-sdk) - Java 解决方案的 SDK 源码及 Demo
-    - [Node SDK](https://github.com/tencentyun/weapp-node-server-sdk) - Node 解决方案的 SDK 源码及 Demo
-    - [Auth Server](https://github.com/tencentyun/weapp-auth-server) - 鉴权服务器的源码
+  - [PHP SDK](https://github.com/tencentyun/weapp-php-server-sdk) - PHP 解决方案的 SDK 源码及 Demo
+  - [C# SDK](https://github.com/tencentyun/weapp-csharp-server-sdk) - C# 解决方案的 SDK 源码及 Demo
+  - [Java SDK](https://github.com/tencentyun/weapp-java-server-sdk) - Java 解决方案的 SDK 源码及 Demo
+  - [Node SDK](https://github.com/tencentyun/weapp-node-server-sdk) - Node 解决方案的 SDK 源码及 Demo
+  - [Auth Server](https://github.com/tencentyun/weapp-auth-server) - 鉴权服务器的源码
 * 客户端
-    - [SDK](https://github.com/tencentyun/weapp-client-sdk) - 客户端增强 SDK 源码
-    - [Demo](https://github.com/tencentyun/weapp-client-demo) - 客户端 Demo
+  - [SDK](https://github.com/tencentyun/weapp-client-sdk) - 客户端增强 SDK 源码
+  - [Demo](https://github.com/tencentyun/weapp-client-demo) - 客户端 Demo
 
