@@ -25,7 +25,7 @@
   - [C# SDK](https://github.com/tencentyun/weapp-csharp-server-sdk) - C# 解决方案的 SDK 源码及 Demo
   - [Java SDK](https://github.com/tencentyun/weapp-java-server-sdk) - Java 解决方案的 SDK 源码及 Demo
   - [Node SDK](https://github.com/tencentyun/weapp-node-server-sdk) - Node 解决方案的 SDK 源码及 Demo
-  - [Auth Server](https://github.com/tencentyun/weapp-auth-server) - 鉴权服务器的源码
+  - [Session Server](https://github.com/tencentyun/weapp-session-server) - 鉴权服务器的源码
 * 客户端
   - [SDK](https://github.com/tencentyun/weapp-client-sdk) - 客户端增强 SDK 源码
   - [Demo](https://github.com/tencentyun/weapp-client-demo) - 客户端 Demo
