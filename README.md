@@ -1,5 +1,5 @@
-Wafer - Build your wechat application easy and nice!
-============================
+Wafer - 企业级微信小程序全栈方案
+==============================
 
 Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套件，套件提供：
 
