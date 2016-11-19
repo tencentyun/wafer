@@ -1,25 +1,25 @@
-Wafer - 微信小程序全栈解决方案
-=====
+Wafer - Build your wechat application easy and nice!
+============================
 
 Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套件，套件提供：
 
-* 小程序会话管理解决方案
-* WebSocket 信道的解决方案
+* 小程序会话管理服务
+* WebSocket 信道服务
 
-阅读 [Wiki](https://github.com/tencentyun/weapp-solution/wiki) 文档了解 Wafer 的部署方法、架构设计以及实现细节。
+阅读 [Wiki](https://github.com/tencentyun/wafer/wiki) 文档了解 Wafer 的部署方法、架构设计以及实现细节。
 
 ## 开发者资源
 
 * 业务服务器
-  - [PHP SDK](https://github.com/tencentyun/weapp-php-server-sdk) - PHP 解决方案的 SDK 源码及 Demo
-  - [C# SDK](https://github.com/tencentyun/weapp-csharp-server-sdk) - C# 解决方案的 SDK 源码及 Demo
-  - [Java SDK](https://github.com/tencentyun/weapp-java-server-sdk) - Java 解决方案的 SDK 源码及 Demo
-  - [Node SDK](https://github.com/tencentyun/weapp-node-server-sdk) - Node 解决方案的 SDK 源码及 Demo
+  - [PHP SDK](https://github.com/tencentyun/wafer-php-server-sdk) - PHP 解决方案的 SDK 源码及 Demo
+  - [C# SDK](https://github.com/tencentyun/wafer-csharp-server-sdk) - C# 解决方案的 SDK 源码及 Demo
+  - [Java SDK](https://github.com/tencentyun/wafer-java-server-sdk) - Java 解决方案的 SDK 源码及 Demo
+  - [Node SDK](https://github.com/tencentyun/wafer-node-server-sdk) - Node 解决方案的 SDK 源码及 Demo
 * 会话服务器
-  - [Session Server](https://github.com/tencentyun/weapp-session-server) - 会话服务器的源码
+  - [Session Server](https://github.com/tencentyun/wafer-session-server) - 会话服务器的源码
 * 客户端
-  - [SDK](https://github.com/tencentyun/weapp-client-sdk) - 客户端增强 SDK 源码
-  - [Demo](https://github.com/tencentyun/weapp-client-demo) - 客户端 Demo
+  - [SDK](https://github.com/tencentyun/wafer-client-sdk) - 客户端增强 SDK 源码
+  - [Demo](https://github.com/tencentyun/wafer-client-demo) - 客户端 Demo
 
 ## 云资源
 
