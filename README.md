@@ -34,4 +34,4 @@ Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套�
 
 Wafer 是一个愿景，希望可以给开发者提供到像晶片一样精致且可靠的开源项目，也希望和广大开发者一起进行打磨，打造健康的小程序全栈开发生态。
 
-Wafer 的全称是 Weapp Application Fullstack Essensial Resources，即微信小程序全栈基础资源。
+Wafer 的全称是 Weapp Application Fullstack Essential Resources，即微信小程序全栈基础资源。
