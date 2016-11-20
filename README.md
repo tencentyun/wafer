@@ -7,6 +7,9 @@ Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套�
 
 ## 开发者资源索引
 
+* 客户端
+  - [SDK](https://github.com/tencentyun/wafer-client-sdk) - 客户端增强 SDK 源码
+  - [Demo](https://github.com/tencentyun/wafer-client-demo) - 客户端 Demo
 * 业务服务器
   - [PHP SDK](https://github.com/tencentyun/wafer-php-server-sdk) - PHP 解决方案的 SDK 源码及 Demo
   - [C# SDK](https://github.com/tencentyun/wafer-csharp-server-sdk) - C# 解决方案的 SDK 源码及 Demo
@@ -14,9 +17,6 @@ Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套�
   - [Node SDK](https://github.com/tencentyun/wafer-node-server-sdk) - Node 解决方案的 SDK 源码及 Demo
 * 会话服务器
   - [Session Server](https://github.com/tencentyun/wafer-session-server) - 会话服务器的源码
-* 客户端
-  - [SDK](https://github.com/tencentyun/wafer-client-sdk) - 客户端增强 SDK 源码
-  - [Demo](https://github.com/tencentyun/wafer-client-demo) - 客户端 Demo
 
 ## 关于 Wafer
 
