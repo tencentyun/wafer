@@ -26,6 +26,8 @@ Wafer 是一个愿景，希望可以给开发者提供到像晶片一样精致�
 
 Wafer 的全称是 Weapp Application Fullstack Essential Resources，即微信小程序全栈基础资源。
 
+关于 Wafer 的探索历程，可以阅读[这篇文章](https://github.com/tencentyun/blog/issues/1)
+
 ## LICENSE
 
 [MIT](LICENSE)
