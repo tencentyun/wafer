@@ -17,6 +17,13 @@ Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套�
   - [Node SDK](https://github.com/tencentyun/wafer-node-server-sdk) - Node 解决方案的 SDK 源码及 Demo
 * 会话服务器
   - [Session Server](https://github.com/tencentyun/wafer-session-server) - 会话服务器的源码
+* 微信小程序文档
+  - [小程序介绍](https://mp.weixin.qq.com/debug/wxadoc/introduction)
+  - [设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/)
+  - [开发指南](https://mp.weixin.qq.com/debug/wxadoc/dev/)
+    - [组件](https://mp.weixin.qq.com/debug/wxadoc/dev/component/)
+    - [API 文档](https://mp.weixin.qq.com/debug/wxadoc/dev/api/)
+    - [开发工具下载](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
 * 优质第三方资源
   - [10 分钟实现 PHP 业务](https://github.com/tencentyun/wafer/issues/5) - @tsr106
 
