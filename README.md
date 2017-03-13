@@ -26,7 +26,7 @@ Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套�
     - [开发工具下载](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
 * 优质第三方资源
   - [10 分钟实现 PHP 业务](https://github.com/tencentyun/wafer/issues/5) - @tsr106
-  - [自行部署 Wafer 的一点心得](https://github.com/tencentyun/wafer/issues/6) - @ITJaye
+  - [自行部署 Wafer 的一点心得](https://github.com/tencentyun/wafer/issues/8) - @ITJaye
 
 ## 关于 Wafer
 
