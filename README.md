@@ -3,6 +3,8 @@
 
 Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套件，套件提供小程序会话管理服务和 WebSocket 信道服务，部署方式具备良好的弹性伸缩能力，可以快速应对业务的爆发增长，同时具备较低的开发门槛。
 
+如果你希望自己动手搭建小程序，[小程序实验室](https://www.qcloud.com/developer/labs/lab/10004)将提供step by step的教程帮助你完成目标！
+
 阅读 [Wiki](https://github.com/tencentyun/wafer/wiki) 文档了解 Wafer 提供的服务、部署方法、架构设计以及实现细节。
 
 ## 开发者资源索引
