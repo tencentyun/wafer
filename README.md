@@ -7,6 +7,8 @@ Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套�
 
 阅读 [Wiki](https://github.com/tencentyun/wafer/wiki) 文档了解 Wafer 提供的服务、部署方法、架构设计以及实现细节。
 
+使用过程中若有疑问，欢迎到[腾讯云开发者问答社区](https://www.qcloud.com/developer/ask)进行提问。
+
 ## 开发者资源索引
 
 * 客户端
