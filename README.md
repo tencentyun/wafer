@@ -9,7 +9,13 @@ Wafer 是腾讯云面向广大开发者提供的小程序开发全栈资源套�
 
 使用过程中若有疑问，欢迎到[腾讯云开发者问答社区](https://www.qcloud.com/developer/ask)进行提问。
 
-## 开发者资源索引
+## Wafer2 正式发布
+
+开发者工具方案（以下简称 Wafer2）是 2017 年腾讯云基于原来的 Wafer 解决方案（以下简称 Wafer1）并与微信团队深度定制合作的一站式小程序解决方案，Wafer 团队基于腾讯云强大的 IaaS 能力搭建了一个 PaaS 小程序解决方案，用户只需要开通，即可使用开发者工具上传、部署、调试小程序后端代码，无需了解服务器运维、数据库部署搭建即可使用。
+
+[点击查看Wafer2 指引](https://github.com/tencentyun/wafer2-quickstart)
+
+## Wafer1 开发者资源索引
 
 * 客户端
   - [SDK](https://github.com/tencentyun/wafer-client-sdk) - 客户端增强 SDK 源码
